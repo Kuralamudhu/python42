@@ -1,2 +1,2 @@
 z=input()
-print(z.count(".")+1)
+print((z.count("."))+1)
